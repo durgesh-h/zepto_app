@@ -1,4 +1,4 @@
-package com.zepto
+package com.zepto1
 
 import android.app.Application
 import com.facebook.react.PackageList
