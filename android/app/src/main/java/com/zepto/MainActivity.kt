@@ -1,4 +1,4 @@
-package com.zepto
+package com.zepto1
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
